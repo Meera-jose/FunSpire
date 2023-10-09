@@ -1,0 +1,460 @@
+[{
+  "_id": {
+    "$oid": "64ff1735f4091c4e757f8a6e"
+  },
+  "type": {
+    "$oid": "64f85bba511f22b301ac8774"
+  },
+  "Eventname": "LEAVING YEAR 11 SUPPORT",
+  "hours": "Flexible",
+  "days": "Till 31st December 2023",
+  "area": "Indoor",
+  "price": "Free",
+  "site": "https://cardiffhubs.co.uk/hub/central-library-hub/",
+  "address": "Cardiff central library",
+  "pindode": "CF10 1FL",
+  "contact": "0773456789",
+  "latitude": "51.47760540714286",
+  "longtitude": "-3.1760556714285713",
+  "photo": "Cardiff_Central_Library_2018.jpg"
+},
+{
+  "_id": {
+    "$oid": "64ff1c98b6e8878291c9f5d8"
+  },
+  "type": {
+    "$oid": "64f85c25511f22b301ac877b"
+  },
+  "Eventname": "Infinity Trampoline Park Cardiff",
+  "hours": "10am-7pm",
+  "days": "Monday-Sunday",
+  "area": "Indoor",
+  "price": "8 pounds",
+  "site": "https://infinitycardiff.co.uk",
+  "address": "Unit J, St Catherine's Park, Pengham Road, Tremorfa, ",
+  "pindode": "CF24 2RZ",
+  "contact": "02920003323",
+  "latitude": "51.49291535",
+  "longtitude": "-3.1413477",
+  "photo": "a-look-at-some-of-our.jpg"
+},
+{
+  "_id": {
+    "$oid": "650039d6d8bd4cd30abfe697"
+  },
+  "type": {
+    "$oid": "64f85c3e511f22b301ac877d"
+  },
+  "Eventname": "St David’s Dewi Sant",
+  "hours": "8am-8pm",
+  "days": "All throughout the year",
+  "area": "Indoor",
+  "price": "Flexible",
+  "site": "https://stdavidscardiff.com",
+  "address": "Bridge St,St Davids Centre",
+  "pindode": "CF10 2EF",
+  "contact": "0292036760",
+  "latitude": "51.47971027333333",
+  "longtitude": "-3.174469106666667",
+  "photo": "St-Davids-Cardiff-Internal-Photo.jpg"
+},
+{
+  "_id": {
+    "$oid": "650058ead8bd4cd30abfe69c"
+  },
+  "type": {
+    "$oid": "64f85c25511f22b301ac877b"
+  },
+  "Eventname": "Margam Park Adventure",
+  "hours": "10 am-7pm",
+  "days": "Flexible",
+  "area": "Outdoor",
+  "price": "8 pounds",
+  "site": "http://www.margamcountrypark.co.uk",
+  "address": "Margam,Neath Port Talbot",
+  "pindode": "SA13 2TJ",
+  "contact": "01639881635",
+  "latitude": "51.56184234",
+  "longtitude": "-3.72876688",
+  "photo": "MARGAM.PNG"
+},
+{
+  "_id": {
+    "$oid": "65005c71d8bd4cd30abfe69e"
+  },
+  "type": {
+    "$oid": "64f85c25511f22b301ac877b"
+  },
+  "Eventname": "Barry Island Pleasure Park",
+  "hours": "10 am-7pm",
+  "days": "Monday-Sunday",
+  "area": "Outdoor",
+  "price": "8 pounds",
+  "site": "https://www.barryislandpleasurepark.wales",
+  "address": "Friars Road ,Barry",
+  "pindode": "CF62 5TR",
+  "contact": "0779867546",
+  "latitude": "51.3924762",
+  "longtitude": "-3.2676308",
+  "photo": "Barry-Island-Pleasure-Park-1000x562.jpg"
+},
+{
+  "_id": {
+    "$oid": "6500db6e2857b3748cd88ac6"
+  },
+  "type": {
+    "$oid": "64f85c47511f22b301ac877e"
+  },
+  "Eventname": "Bute Park Visit",
+  "hours": "6 am-10 pm",
+  "days": "Flexible",
+  "area": "Outdoor",
+  "price": "Free",
+  "site": "https://christmasatbutepark.com",
+  "address": "North Road,Cardiff",
+  "pindode": "CF10 3ER",
+  "contact": "0292036760",
+  "latitude": "51.4857536",
+  "longtitude": "-3.18513915",
+  "photo": "Bute_Park_Cardiff.jpg"
+},
+{
+  "_id": {
+    "$oid": "65022852371f41fbba3be5f1"
+  },
+  "type": {
+    "$oid": "64f85c47511f22b301ac877e"
+  },
+  "Eventname": "Roath Park Visit",
+  "hours": "Flexible",
+  "days": "All throughout the year",
+  "area": "Outdoor",
+  "price": "Free",
+  "site": "https://www.outdoorcardiff.com/parks/roath-park/",
+  "address": "Public Rights of Way Team,Cardiff",
+  "pindode": "CF10 4UW",
+  "contact": "02920873087",
+  "latitude": "51.46927765",
+  "longtitude": "-3.163513",
+  "photo": "roath_park.jpeg"
+},
+{
+  "_id": {
+    "$oid": "650228f5371f41fbba3be5f2"
+  },
+  "type": {
+    "$oid": "64f85c25511f22b301ac877b"
+  },
+  "Eventname": "Cardiff Spy Mission Treasure Trail",
+  "hours": "Flexible",
+  "days": "Flexible",
+  "area": "Outdoor",
+  "price": "9.99 pounds for a family",
+  "site": "https://www.treasuretrails.co.uk/products/things-to-do-cardiff-bay-south-wales",
+  "address": "Bute Place, Cardiff Bay, Cardiff",
+  "pindode": "CF10 5AL",
+  "contact": "01872263692",
+  "latitude": "51.464878475",
+  "longtitude": "-3.1628242",
+  "photo": "Cardiff_Spy_Mission_Treasure_Trail.jpeg"
+},
+{
+  "_id": {
+    "$oid": "650229e7371f41fbba3be5f3"
+  },
+  "type": {
+    "$oid": "64f85c4b511f22b301ac877f"
+  },
+  "Eventname": "The Cardiff Story Museum",
+  "hours": "Flexible",
+  "days": "Flexible",
+  "area": "Indoor",
+  "price": "Free",
+  "site": "https://cardiffmuseum.com",
+  "address": "The Old Library, The Hayes",
+  "pindode": "CF10 1BH",
+  "contact": "02920788334",
+  "latitude": "51.48022705",
+  "longtitude": "-3.177814",
+  "photo": "museum.jpeg"
+},
+{
+  "_id": {
+    "$oid": "65022baa371f41fbba3be5f4"
+  },
+  "type": {
+    "$oid": "64f85c25511f22b301ac877b"
+  },
+  "Eventname": "Escape Reality Cardiff",
+  "hours": "12:00 - 22:30",
+  "days": "Monday-Friday",
+  "area": "Indoor",
+  "price": "21 pounds",
+  "site": "https://www.escapereality.com/escape-rooms-uk/cardiffcity/",
+  "address": "6-7 St John Street,Cardiff",
+  "pindode": "CF10 1GJ",
+  "contact": "02921323120",
+  "latitude": "51.48123675",
+  "longtitude": "-3.1783017",
+  "photo": "Escape_Reality_Cardiff.jpeg"
+},
+{
+  "_id": {
+    "$oid": "65022dbd371f41fbba3be5f6"
+  },
+  "type": {
+    "$oid": "64f85c57511f22b301ac8780"
+  },
+  "Eventname": "Cineworld Cardiff",
+  "hours": "Monday-Sunday",
+  "days": "Monday-Sunday",
+  "area": "Indoor",
+  "price": "Varying",
+  "site": "https://www.cineworld.co.uk/cinemas/cardiff",
+  "address": "Mary Ann Street,Cardiff ",
+  "pindode": "CF10 2EN",
+  "contact": "03303334444",
+  "latitude": "51.4789084",
+  "longtitude": "-3.173075",
+  "photo": "Cineworld_Cardiff_Cinema_2.jpg"
+},
+{
+  "_id": {
+    "$oid": "650eed3c01c386f39d9abcfe"
+  },
+  "type": {
+    "$oid": "64f85bba511f22b301ac8774"
+  },
+  "Eventname": "Boulders Rock Climbing",
+  "hours": "10 am-8:30 pm",
+  "days": "Monday-Friday",
+  "area": "Indoor",
+  "price": "Free",
+  "site": "https://bouldersuk.com/",
+  "address": "East, Boulders, St Catherines Pk, Pengam Rd, Cardiff",
+  "pindode": "CF24 2RZ",
+  "contact": "02920484880",
+  "latitude": "51.49291535",
+  "longtitude": "-3.1413477",
+  "photo": "boulders.jpeg"
+},
+{
+  "_id": {
+    "$oid": "650eedc201c386f39d9abcff"
+  },
+  "type": {
+    "$oid": "64f85bba511f22b301ac8774"
+  },
+  "Eventname": "Cardiff Pottery Workshops",
+  "hours": "10am-5pm",
+  "days": "Monday-Sunday",
+  "area": "Indoor",
+  "price": "8 pounds",
+  "site": "https://www.cardiffpotteryworkshops.com/",
+  "address": "Llandough Trading Estate, 12, Penarth Rd, Llandough, Cardiff ",
+  "pindode": "CF11 8RR",
+  "contact": "02921320820",
+  "latitude": "51.45575",
+  "longtitude": "-3.2012299",
+  "photo": "POTTERY.jpeg"
+},
+{
+  "_id": {
+    "$oid": "650eee9001c386f39d9abd00"
+  },
+  "type": {
+    "$oid": "64f85bba511f22b301ac8774"
+  },
+  "Eventname": "Jewellery Making Cardiff",
+  "hours": "Flexible",
+  "days": "Monday-Sunday",
+  "area": "Indoor",
+  "price": "Varying",
+  "site": "https://www.jewellerymakingcardiff.com/",
+  "address": "MADE Gallery, The Upstairs Studio, 41 Lochaber St, Roath, Cardiff ",
+  "pindode": "CF24 3LS",
+  "contact": "0292036768",
+  "latitude": "51.49616",
+  "longtitude": "-3.16681",
+  "photo": "JEWELLERY.jpeg"
+},
+{
+  "_id": {
+    "$oid": "650eef8e01c386f39d9abd01"
+  },
+  "type": {
+    "$oid": "64f85bba511f22b301ac8774"
+  },
+  "Eventname": "The Art Workshop",
+  "hours": "Flexible",
+  "days": "Monday-Sunday",
+  "area": "Indoor",
+  "price": "Varying",
+  "site": "https://theartworkshop.co.uk/",
+  "address": "3 Lôn Fach, Cardiff ",
+  "pindode": "CF14 6DY",
+  "contact": "07947003111",
+  "latitude": "51.52226",
+  "longtitude": "-3.21281",
+  "photo": "art.jpeg"
+},
+{
+  "_id": {
+    "$oid": "650ef05801c386f39d9abd02"
+  },
+  "type": {
+    "$oid": "64f85c4b511f22b301ac877f"
+  },
+  "Eventname": "Cardiff Castle Museum",
+  "hours": "10am-5pm",
+  "days": "Monday-Sunday",
+  "area": "Indoor",
+  "price": "8 pounds",
+  "site": "https://www.cardiffcastle.com/",
+  "address": "5 Duke St, Cardiff ",
+  "pindode": "CF10 1AY",
+  "contact": "02920878100",
+  "latitude": "51.4812837",
+  "longtitude": "-3.17966295",
+  "photo": "MUSEUM1.jpeg"
+},
+{
+  "_id": {
+    "$oid": "650ef1b601c386f39d9abd04"
+  },
+  "type": {
+    "$oid": "64f85c57511f22b301ac8780"
+  },
+  "Eventname": "Vue Cardiff",
+  "hours": "Flexible",
+  "days": "Monday-Sunday",
+  "area": "Indoor",
+  "price": "16 pounds",
+  "site": "https://www.myvue.com/cinema/cardiff/whats-on",
+  "address": "Stadium Plaza, Wood Street,Cardiff",
+  "pindode": "CF10 1LA",
+  "contact": "03453084620",
+  "latitude": "51.47699846666667",
+  "longtitude": "-3.1816583",
+  "photo": "Vue.jpeg"
+},
+{
+  "_id": {
+    "$oid": "650ef22501c386f39d9abd05"
+  },
+  "type": {
+    "$oid": "64f85c57511f22b301ac8780"
+  },
+  "Eventname": "ODEON Cardiff",
+  "hours": "Flexible",
+  "days": "Monday-Sunday",
+  "area": "Indoor",
+  "price": "15 pounds",
+  "site": "https://www.odeon.co.uk/cinemas/cardiff/?",
+  "address": "Hemingway Road,Cardiff",
+  "pindode": "CF10 4JY",
+  "contact": "03330067777",
+  "latitude": "51.46705403333333",
+  "longtitude": "-3.1634517733333336",
+  "photo": "odeon.jpeg"
+},
+{
+  "_id": {
+    "$oid": "650ef2b201c386f39d9abd06"
+  },
+  "type": {
+    "$oid": "64f85c3e511f22b301ac877d"
+  },
+  "Eventname": "Capitol Cardiff",
+  "hours": "Flexible",
+  "days": "Monday-Sunday",
+  "area": "Outdoor",
+  "price": "Varying",
+  "site": "https://capitolcardiff.co.uk/",
+  "address": ": Queen St, Cardiff ",
+  "pindode": "CF10 2HQ",
+  "contact": "02920345428",
+  "latitude": "51.48247305555556",
+  "longtitude": "-3.1724619555555558",
+  "photo": "capitaol.jpeg"
+},
+{
+  "_id": {
+    "$oid": "650ef31201c386f39d9abd07"
+  },
+  "type": {
+    "$oid": "64f85c3e511f22b301ac877d"
+  },
+  "Eventname": "Queens Arcade",
+  "hours": "10 am-7pm",
+  "days": "Monday-Sunday",
+  "area": "Outdoor",
+  "price": "Varying",
+  "site": "https://www.queensarcadecardiff.co.uk/",
+  "address": "Queen St, St Davids Centre, Cardiff ",
+  "pindode": "CF10 2BY",
+  "contact": "02920223581",
+  "latitude": "51.4816442",
+  "longtitude": "-3.177689",
+  "photo": "Queens_Arcade_C9C9323.jpg"
+},
+{
+  "_id": {
+    "$oid": "650ef43901c386f39d9abd09"
+  },
+  "type": {
+    "$oid": "650ef3db01c386f39d9abd08"
+  },
+  "Eventname": "IMS Cardiff",
+  "hours": "10am-5pm",
+  "days": "Monday-Friday",
+  "area": "Indoor",
+  "price": "Varying",
+  "site": "https://imscardiff.co.uk/",
+  "address": " 6 West Grove, Cardiff ",
+  "pindode": "CF24 3XL",
+  "contact": "07835352483",
+  "latitude": "51.4858232",
+  "longtitude": "-3.1697183",
+  "photo": "ims.png"
+},
+{
+  "_id": {
+    "$oid": "650ef9fc01c386f39d9abd0a"
+  },
+  "type": {
+    "$oid": "650ef3db01c386f39d9abd08"
+  },
+  "Eventname": "Cardiff Music School",
+  "hours": "Flexible",
+  "days": "Monday-Sunday",
+  "area": "Indoor",
+  "price": "Varying",
+  "site": "https://www.cardiffmusicschool.com/",
+  "address": "Market house,market road",
+  "pindode": "CF10 1GJ",
+  "contact": "02920638059",
+  "latitude": "51.48123675",
+  "longtitude": "-3.1783017",
+  "photo": "musics.png"
+},
+{
+  "_id": {
+    "$oid": "650efa9101c386f39d9abd0b"
+  },
+  "type": {
+    "$oid": "650ef3db01c386f39d9abd08"
+  },
+  "Eventname": "FORTE SCHOOL OF MUSIC",
+  "hours": "Flexible",
+  "days": "Monday-Sunday",
+  "area": "Indoor",
+  "price": "Varying",
+  "site": "https://www.fortemusic.co.uk/",
+  "address": "4, Radyr Court Shops Danescourt Way, Llandaff, Cardiff , UK",
+  "pindode": "CF24 3XL",
+  "contact": "02920631340",
+  "latitude": "51.4858232",
+  "longtitude": "-3.1697183",
+  "photo": "FORTE.jpeg"
+}]

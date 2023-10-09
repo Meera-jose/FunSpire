@@ -1,0 +1,54 @@
+[{
+  "_id": {
+    "$oid": "64f85c20511f22b301ac877a"
+  },
+  "Eventtype_name": "Sight Seeing"
+},
+{
+  "_id": {
+    "$oid": "64f85c25511f22b301ac877b"
+  },
+  "Eventtype_name": "Adventure"
+},
+{
+  "_id": {
+    "$oid": "64f85c37511f22b301ac877c"
+  },
+  "Eventtype_name": "Entertaiment"
+},
+{
+  "_id": {
+    "$oid": "64f85c3e511f22b301ac877d"
+  },
+  "Eventtype_name": "Shopping"
+},
+{
+  "_id": {
+    "$oid": "64f85c47511f22b301ac877e"
+  },
+  "Eventtype_name": "Nature Park"
+},
+{
+  "_id": {
+    "$oid": "64f85c4b511f22b301ac877f"
+  },
+  "Eventtype_name": "Museums"
+},
+{
+  "_id": {
+    "$oid": "64f85c57511f22b301ac8780"
+  },
+  "Eventtype_name": "Movies"
+},
+{
+  "_id": {
+    "$oid": "64f85bba511f22b301ac8774"
+  },
+  "Eventtype_name": "Workshops"
+},
+{
+  "_id": {
+    "$oid": "650ef3db01c386f39d9abd08"
+  },
+  "Eventtype_name": "Music classes"
+}]

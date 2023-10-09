@@ -1,0 +1,204 @@
+[{
+  "_id": {
+    "$oid": "64f094354c3618a57892de69"
+  },
+  "typeofintrest": "events",
+  "areaofinterest": "outdoor",
+  "interst": "exhibition",
+  "companion": "male",
+  "user_id": {
+    "$oid": "64efba93eb5f228ca5acf060"
+  }
+},
+{
+  "_id": {
+    "$oid": "64f094f0ae7ec2fce654a8f0"
+  },
+  "typeofintrest": "events",
+  "areaofinterest": "outdoor",
+  "interst": "exhibition",
+  "companion": "male",
+  "user_id": {
+    "$oid": "64f094d6ae7ec2fce654a8ef"
+  }
+},
+{
+  "_id": {
+    "$oid": "64f32f97a058bea01cb0e26e"
+  },
+  "typeofintrest": "activities",
+  "areaofinterest": "Outdoor",
+  "interst": "hiking",
+  "companion": "male",
+  "user_id": {
+    "$oid": "64f32f7ea058bea01cb0e26d"
+  }
+},
+{
+  "_id": {
+    "$oid": "64f3aae97f22550f06f0a662"
+  },
+  "typeofintrest": "activities",
+  "areaofinterest": "Indoor",
+  "interst": "Boardgames",
+  "companion": "male",
+  "user_id": {
+    "$oid": "64f3a9427f22550f06f0a660"
+  }
+},
+{
+  "_id": {
+    "$oid": "64f3ab937f22550f06f0a663"
+  },
+  "typeofintrest": "",
+  "areaofinterest": "Indoor",
+  "interst": "",
+  "companion": "male",
+  "user_id": {
+    "$oid": "64f3a9427f22550f06f0a660"
+  }
+},
+{
+  "_id": {
+    "$oid": "64f3acdd7f22550f06f0a664"
+  },
+  "typeofintrest": "events",
+  "areaofinterest": "Outdoor",
+  "interst": "cyclerally",
+  "companion": "male",
+  "user_id": {
+    "$oid": "64f3a9427f22550f06f0a660"
+  }
+},
+{
+  "_id": {
+    "$oid": "64f79c47f31909fc6d7e8094"
+  },
+  "typeofintrest": "events",
+  "areaofinterest": "Indoor",
+  "interst": "tournaments",
+  "companion": "female",
+  "user_id": {
+    "$oid": "64f79803f31909fc6d7e8092"
+  }
+},
+{
+  "_id": {
+    "$oid": "64f9bdfd52c356cfdd676c75"
+  },
+  "typeofintrest": "events",
+  "areaofinterest": "Outdoor",
+  "interst": "Shopping",
+  "companion": "male",
+  "user_id": {
+    "$oid": "64f9bde252c356cfdd676c74"
+  }
+},
+{
+  "_id": {
+    "$oid": "64fa4dc9dbc5dcddd48b3a6c"
+  },
+  "typeofintrest": "events",
+  "areaofinterest": "Outdoor",
+  "interst": "Adventure",
+  "companion": "male",
+  "user_id": {
+    "$oid": "64fa4acadbc5dcddd48b3a6a"
+  }
+},
+{
+  "_id": {
+    "$oid": "64fc6dd684413ebb934bbfc4"
+  },
+  "typeofintrest": "events",
+  "areaofinterest": "Outdoor",
+  "interst": "Adventure",
+  "companion": "male",
+  "user_id": {
+    "$oid": "64fc6c3284413ebb934bbfc2"
+  }
+},
+{
+  "_id": {
+    "$oid": "64ff23ee94a8c5cc29c8ee5c"
+  },
+  "typeofintrest": "activities",
+  "areaofinterest": "Outdoor",
+  "interst": "Surfing",
+  "companion": "female",
+  "user_id": {
+    "$oid": "64ff230cb6e8878291c9f5d9"
+  }
+},
+{
+  "_id": {
+    "$oid": "650046ced8bd4cd30abfe69b"
+  },
+  "typeofintrest": "events",
+  "areaofinterest": "Indoor",
+  "interst": "Workshops",
+  "companion": "female",
+  "user_id": {
+    "$oid": "6500462ed8bd4cd30abfe698"
+  }
+},
+{
+  "_id": {
+    "$oid": "6508dbdd6f20ddd9aa1d7a84"
+  },
+  "typeofintrest": "events",
+  "areaofinterest": "Outdoor",
+  "interst": "Adventure",
+  "companion": "male",
+  "user_id": {
+    "$oid": "6508d8d4bc1782b86190dfb4"
+  }
+},
+{
+  "_id": {
+    "$oid": "6508e7212d8a4a50b8af797f"
+  },
+  "typeofintrest": "events",
+  "areaofinterest": "Outdoor",
+  "interst": "Adventure",
+  "companion": "male",
+  "user_id": {
+    "$oid": "6508dc156f20ddd9aa1d7a85"
+  }
+},
+{
+  "_id": {
+    "$oid": "651400be56daea47a9447324"
+  },
+  "typeofintrest": "activities",
+  "areaofinterest": "Outdoor",
+  "interst": "Surfing",
+  "companion": "male",
+  "user_id": {
+    "$oid": "6513fe17fadf29ac56df2aa1"
+  }
+},
+{
+  "_id": {
+    "$oid": "651e7809bd5f0e73be07fc47"
+  },
+  "typeofintrest": "activities",
+  "areaofinterest": "Outdoor",
+  "interst": "Cycling",
+  "companion": "male",
+  "user_id": {
+    "$oid": "64fe492ef4091c4e757f8a6c"
+  }
+},
+{
+  "_id": {
+    "$oid": "651fda016c1cb9fc85118eab"
+  },
+  "typeofintrest": "activities",
+  "areaofinterest": "Indoor",
+  "interst": "Games",
+  "companion": "female",
+  "user_id": {
+    "$oid": "64fb8e2384413ebb934bbfbf"
+  }
+}]

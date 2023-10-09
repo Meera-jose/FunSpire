@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "64f85b7b511f22b301ac876a"
+  },
+  "activitytype_name": "Board Games"
+},
+{
+  "_id": {
+    "$oid": "64f85b7f511f22b301ac876b"
+  },
+  "activitytype_name": "Arcades"
+},
+{
+  "_id": {
+    "$oid": "64f85b8e511f22b301ac876e"
+  },
+  "activitytype_name": "Games"
+},
+{
+  "_id": {
+    "$oid": "64f85b91511f22b301ac876f"
+  },
+  "activitytype_name": "Hiking"
+},
+{
+  "_id": {
+    "$oid": "64ff198fb6e8878291c9f5d6"
+  },
+  "activitytype_name": "Castle Visit"
+},
+{
+  "_id": {
+    "$oid": "650edc7801c386f39d9abcef"
+  },
+  "activitytype_name": "Fitness"
+},
+{
+  "_id": {
+    "$oid": "650ee4c001c386f39d9abcf6"
+  },
+  "activitytype_name": "Surfing"
+},
+{
+  "_id": {
+    "$oid": "650ee93401c386f39d9abcfb"
+  },
+  "activitytype_name": "Fishing"
+}]

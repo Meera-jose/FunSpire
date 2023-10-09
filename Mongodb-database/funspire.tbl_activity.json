@@ -1,0 +1,460 @@
+[{
+  "_id": {
+    "$oid": "64ff1aafb6e8878291c9f5d7"
+  },
+  "type": {
+    "$oid": "64ff198fb6e8878291c9f5d6"
+  },
+  "activityname": "Cardiff Castle",
+  "hours": "10am-6pm",
+  "days": "Monday-Sunday",
+  "area": "Indoor",
+  "price": "5 pounds",
+  "site": "https://www.cardiffcastle.com",
+  "address": "Castle St, Cardiff",
+  "pindode": "CF10 3RB",
+  "contact": "029 2087 8100",
+  "latitude": "51.4816969",
+  "longtitude": "-3.180354",
+  "photo": "cardiff-castle-daffodils_copy.jpeg"
+},
+{
+  "_id": {
+    "$oid": "65005afcd8bd4cd30abfe69d"
+  },
+  "type": {
+    "$oid": "64ff198fb6e8878291c9f5d6"
+  },
+  "activityname": "Castle Coch",
+  "hours": "10 am-5 pm",
+  "days": "Monday-Sunday",
+  "area": "Indoor",
+  "price": "9 pounds",
+  "site": "https://cadw.gov.wales/visit/places-to-visit/castell-coch",
+  "address": "Castle Hill, Tongwynlais, Cardiff",
+  "pindode": "CF15 7JS",
+  "contact": "03000252239",
+  "latitude": "51.53586",
+  "longtitude": "-3.25463",
+  "photo": "Castell_Coch_Cardiff_1_1.jpg"
+},
+{
+  "_id": {
+    "$oid": "65005ff0d8bd4cd30abfe6a0"
+  },
+  "type": {
+    "$oid": "64f85b8e511f22b301ac876e"
+  },
+  "activityname": "SuperBowl",
+  "hours": "10am-8pm",
+  "days": "Monday-Sunday",
+  "area": "Indoor",
+  "price": "9 pounds",
+  "site": "https://www.superbowluk.co.uk/cardiff/",
+  "address": "Wood Street Cardiff",
+  "pindode": "CF10 1LA",
+  "contact": "02922331333",
+  "latitude": "51.47699846666667",
+  "longtitude": "-3.1816583",
+  "photo": "superbowl.png"
+},
+{
+  "_id": {
+    "$oid": "65006341d8bd4cd30abfe6a1"
+  },
+  "type": {
+    "$oid": "64f85b8e511f22b301ac876e"
+  },
+  "activityname": "Techniquest",
+  "hours": "10am-6pm",
+  "days": "Monday-Sunday",
+  "area": "Indoor",
+  "price": "9 pounds",
+  "site": "https://www.techniquest.org",
+  "address": "Stuart Cardiff",
+  "pindode": "CF10 5BW",
+  "contact": "02920475475",
+  "latitude": "51.4628398",
+  "longtitude": "-3.1671478",
+  "photo": "techniquest.jpeg"
+},
+{
+  "_id": {
+    "$oid": "65022ce1371f41fbba3be5f5"
+  },
+  "type": {
+    "$oid": "64f85b8e511f22b301ac876e"
+  },
+  "activityname": "Treetop Adventure Golf",
+  "hours": "10AM-7PM",
+  "days": "Monday-Sunday",
+  "area": "Indoor",
+  "price": "12 Pounds",
+  "site": "https://adventuregolf.com/cardiff",
+  "address": "Level P3 St Davids, 2 Dewi Sant",
+  "pindode": "CF10 2EL",
+  "contact": "02920226590",
+  "latitude": "51.4788989",
+  "longtitude": "-3.1745127",
+  "photo": "treetop.jpeg"
+},
+{
+  "_id": {
+    "$oid": "650ecf8901c386f39d9abce8"
+  },
+  "type": {
+    "$oid": "64f85b7b511f22b301ac876a"
+  },
+  "activityname": "Cosy club",
+  "hours": "10 am-5 pm",
+  "days": "Monday-Sunday",
+  "area": "Indoor",
+  "price": " £7 - £15",
+  "site": "cardiffbookings@cosyclub.co.uk",
+  "address": "Ug53 LG53 Units 1 Hills Street | St David's, Cardiff",
+  "pindode": "CF10 2LE",
+  "contact": " +44 29 2022 5998",
+  "latitude": "51.4796102",
+  "longtitude": "-3.1759529",
+  "photo": "cosy-cardiff.jpg"
+},
+{
+  "_id": {
+    "$oid": "650ed18a01c386f39d9abcea"
+  },
+  "type": {
+    "$oid": "64f85b7f511f22b301ac876b"
+  },
+  "activityname": "Castle Quarter Arcades",
+  "hours": "10am-6pm",
+  "days": "Monday-Sunday",
+  "area": "Indoor",
+  "price": "Free",
+  "site": "https://castlequarterarcades.co.uk/",
+  "address": "Castle St, Cardiff ",
+  "pindode": "CF10 1BU",
+  "contact": "02922331336",
+  "latitude": "51.4805114",
+  "longtitude": "-3.18075265",
+  "photo": "Visit.jpg"
+},
+{
+  "_id": {
+    "$oid": "650eda8f01c386f39d9abcec"
+  },
+  "type": {
+    "$oid": "64f85b7f511f22b301ac876b"
+  },
+  "activityname": "NQ64 Cardiff",
+  "hours": "10am-8pm",
+  "days": "Monday-Sunday",
+  "area": "Indoor",
+  "price": "12 Pounds",
+  "site": "https://nq64.co.uk/",
+  "address": "60-61 St Mary St",
+  "pindode": "CF10 1FE",
+  "contact": "02921850807",
+  "latitude": "51.47715163333333",
+  "longtitude": "-3.1767881333333334",
+  "photo": "nq64.png"
+},
+{
+  "_id": {
+    "$oid": "650eddd701c386f39d9abcf1"
+  },
+  "type": {
+    "$oid": "650edc7801c386f39d9abcef"
+  },
+  "activityname": "David Lloyd Clubs",
+  "hours": "10 am-5 pm",
+  "days": "Monday-Sunday",
+  "area": "Outdoor",
+  "price": "12 Pounds",
+  "site": "https://www.davidlloyd.co.uk/clubs/cardiff/",
+  "address": "Ipswich Road, Roath, Cardiff,",
+  "pindode": "CF23 9AQ",
+  "contact": " 03300 580661",
+  "latitude": "51.49986823333333",
+  "longtitude": "-3.1460216",
+  "photo": "davidlloyd.jpeg"
+},
+{
+  "_id": {
+    "$oid": "650edfc201c386f39d9abcf2"
+  },
+  "type": {
+    "$oid": "650edc7801c386f39d9abcef"
+  },
+  "activityname": "The Gym Group Cardiff City Centre",
+  "hours": "Flexible",
+  "days": "Monday-Sunday",
+  "area": "Indoor",
+  "price": "19.99 pounds",
+  "site": "https://www.thegymgroup.com/",
+  "address": "Capitol Shopping Centre, Cardiff, South Glamorgan",
+  "pindode": "CF10 2HQ",
+  "contact": "03000030615",
+  "latitude": "51.48247305555556",
+  "longtitude": "-3.1724619555555558",
+  "photo": "gymm.png"
+},
+{
+  "_id": {
+    "$oid": "650ee07101c386f39d9abcf3"
+  },
+  "type": {
+    "$oid": "650edc7801c386f39d9abcef"
+  },
+  "activityname": "Ultimate Fitness Centre",
+  "hours": "10am-4pm",
+  "days": "Monday-Sunday",
+  "area": "Indoor",
+  "price": "12 Pounds",
+  "site": " www.ultimatefitnesscentrecardiff.co.uk",
+  "address": "11 Penlline St, Cardiff",
+  "pindode": "CF24 3BD",
+  "contact": "02920481740",
+  "latitude": "51.48807",
+  "longtitude": "-3.16839",
+  "photo": "ultimategym.jpeg"
+},
+{
+  "_id": {
+    "$oid": "650ee13601c386f39d9abcf4"
+  },
+  "type": {
+    "$oid": "650edc7801c386f39d9abcef"
+  },
+  "activityname": "Mission Fitness Cardiff",
+  "hours": "10am-8pm",
+  "days": "Monday-Friday",
+  "area": "Indoor",
+  "price": "12 Pounds",
+  "site": "https://missionfitnesscardiff.co.uk/",
+  "address": "Lancaster House, Maes-Y-Coed Rd, Cardiff ",
+  "pindode": "CF14 4HE",
+  "contact": "02920618926",
+  "latitude": "51.51952",
+  "longtitude": "-3.1944499",
+  "photo": "missionfitness.jpeg"
+},
+{
+  "_id": {
+    "$oid": "650ee61101c386f39d9abcf7"
+  },
+  "type": {
+    "$oid": "650ee4c001c386f39d9abcf6"
+  },
+  "activityname": "Pura Vida Boardriders",
+  "hours": "10 am-5 pm",
+  "days": "Monday-Friday",
+  "area": "Outdoor",
+  "price": "Flexible",
+  "site": "https://www.puravidaboardriders.co.uk/",
+  "address": "Unit 2, Herbert Terrace, Cardiff, Penarth",
+  "pindode": "CF64 2AH",
+  "contact": "02920711946",
+  "latitude": "51.4374198",
+  "longtitude": "-3.1742256",
+  "photo": "surfing.jpeg"
+},
+{
+  "_id": {
+    "$oid": "650ee6ea01c386f39d9abcf8"
+  },
+  "type": {
+    "$oid": "650ee4c001c386f39d9abcf6"
+  },
+  "activityname": "Llantwit Major/Cwm Colhuw Beach",
+  "hours": "10 am-5 pm",
+  "days": "Monday-Friday",
+  "area": "Outdoor",
+  "price": "9 pounds",
+  "site": "https://www.visitthevale.com/attractions/llantwit-major-beach-cwm-colhuw",
+  "address": "Llantwit Major, Vale of Glamorgan",
+  "pindode": "CF61 1RF",
+  "contact": "01446704867",
+  "latitude": "51.3968311",
+  "longtitude": "-3.501625",
+  "photo": "BEACH_LLANDWIT.jpeg"
+},
+{
+  "_id": {
+    "$oid": "650ee7ca01c386f39d9abcf9"
+  },
+  "type": {
+    "$oid": "650ee4c001c386f39d9abcf6"
+  },
+  "activityname": "Manorbier beach",
+  "hours": "10 am-5 pm",
+  "days": "Monday-Sunday",
+  "area": "Outdoor",
+  "price": "Free",
+  "site": "https://www.visitpembrokeshire.com/explore-pembrokeshire/beaches/manorbier",
+  "address": "Cleddau Reach, Pembroke Dock.",
+  "pindode": "SA72 6UJ",
+  "contact": "01437764551",
+  "latitude": "51.69911",
+  "longtitude": "-4.922",
+  "photo": "SURFING2.jpeg"
+},
+{
+  "_id": {
+    "$oid": "650ee8a501c386f39d9abcfa"
+  },
+  "type": {
+    "$oid": "650ee4c001c386f39d9abcf6"
+  },
+  "activityname": "Caswell Bay Beach",
+  "hours": "Flexible",
+  "days": "Monday-Sunday",
+  "area": "Outdoor",
+  "price": "Free",
+  "site": "https://www.visitswanseabay.com/inspirations/beach-guide/caswell-bay-beach/",
+  "address": "Caswell Bay, Caswell Road, Bishopston, Manselfield, Swansea",
+  "pindode": "SA3 3BT",
+  "contact": "01446704868",
+  "latitude": "51.57031",
+  "longtitude": "-4.0366",
+  "photo": "newsletter.png"
+},
+{
+  "_id": {
+    "$oid": "650eea2001c386f39d9abcfc"
+  },
+  "type": {
+    "$oid": "650ee93401c386f39d9abcfb"
+  },
+  "activityname": "Cardiff Fishing",
+  "hours": "10am-6pm",
+  "days": "Monday-Friday",
+  "area": "Outdoor",
+  "price": "5 pounds",
+  "site": "https://cardiff-fishing.co.uk/",
+  "address": "Cefn Mably Lakes, Cefn Mably, Cardiff ",
+  "pindode": "CF23 6PX",
+  "contact": "01633681101",
+  "latitude": "51.52122",
+  "longtitude": "-3.17747",
+  "photo": "fishing.jpeg"
+},
+{
+  "_id": {
+    "$oid": "65159351c1a884a479cd326d"
+  },
+  "type": {
+    "$oid": "64f85b91511f22b301ac876f"
+  },
+  "activityname": "Taff Trail Viewpoint",
+  "hours": "Flexible",
+  "days": "Monday-Sunday",
+  "area": "Outdoor",
+  "price": "Free",
+  "site": "https://www.outdoorcardiff.com/walks/taff-trail/",
+  "address": "Cardiff",
+  "pindode": "CF10 3DX",
+  "contact": "02922331389",
+  "latitude": "51.4926819",
+  "longtitude": "-3.1900329052631577",
+  "photo": "taff.jpeg"
+},
+{
+  "_id": {
+    "$oid": "651593c2c1a884a479cd326e"
+  },
+  "type": {
+    "$oid": "64f85b91511f22b301ac876f"
+  },
+  "activityname": "Radyr Weir",
+  "hours": "Flexible",
+  "days": "Monday-Sunday",
+  "area": "Outdoor",
+  "price": "Free",
+  "site": "https://www.alltrails.com/en-gb/poi/united-kingdom/wales/radyr-weir",
+  "address": "Cardiff",
+  "pindode": "CF14 7JJ",
+  "contact": "03000252239",
+  "latitude": "51.5176",
+  "longtitude": "-3.24533",
+  "photo": "2021-09-26.jpg"
+},
+{
+  "_id": {
+    "$oid": "65159492c1a884a479cd326f"
+  },
+  "type": {
+    "$oid": "64f85b91511f22b301ac876f"
+  },
+  "activityname": "Garth Mountain",
+  "hours": "Flexible",
+  "days": "Monday-Sunday",
+  "area": "Outdoor",
+  "price": "Free",
+  "site": "https://thewanderingquinn.com/garth-mountain-walk/",
+  "address": "Garth Hill Cardiff ",
+  "pindode": "CF15 9NS",
+  "contact": "03000252278",
+  "latitude": "51.53963",
+  "longtitude": "-3.29756",
+  "photo": "garth.jpeg"
+},
+{
+  "_id": {
+    "$oid": "651fd7c7af42e9c7d038e293"
+  },
+  "type": {
+    "$oid": "64f85b7b511f22b301ac876a"
+  },
+  "activityname": "Chance and counters board games",
+  "hours": "10am-8pm",
+  "days": "Monday-Sunday",
+  "area": "Indoor",
+  "price": "4 pounds",
+  "site": "https://www.chanceandcounters.com/cardiff/",
+  "address": "23 High Street (upper floors)",
+  "pindode": "CF10 1PT",
+  "contact": "02921320220",
+  "latitude": "51.4805152",
+  "longtitude": "-3.1802755",
+  "photo": "chance.jpeg"
+},
+{
+  "_id": {
+    "$oid": "651fd883af42e9c7d038e294"
+  },
+  "type": {
+    "$oid": "650ee93401c386f39d9abcfb"
+  },
+  "activityname": "Lamby lake Fishing",
+  "hours": "Flexible",
+  "days": "Monday-Sunday",
+  "area": "Outdoor",
+  "price": "Membership needed",
+  "site": "http://www.lambylake.com",
+  "address": "Parc Tredelerch, Rumney, Cardiff ",
+  "pindode": "CF3 2HP",
+  "contact": "02922331378",
+  "latitude": "51.4973778",
+  "longtitude": "-3.1227157",
+  "photo": "LAMBY.jpeg"
+},
+{
+  "_id": {
+    "$oid": "651fd90faf42e9c7d038e295"
+  },
+  "type": {
+    "$oid": "650ee93401c386f39d9abcfb"
+  },
+  "activityname": "tuskar 2 fishing charters",
+  "hours": "10 am-5 pm",
+  "days": "Monday-Sunday",
+  "area": "Outdoor",
+  "price": "Membership needed",
+  "site": "https://www.charterboats-uk.co.uk/tuskar2/",
+  "address": "Marina, Cardiff ",
+  "pindode": "CF11 8TU",
+  "contact": "07710234816",
+  "latitude": "51.46096",
+  "longtitude": "-3.19753",
+  "photo": "TUSKER.jpeg"
+}]
